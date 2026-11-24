@@ -1,0 +1,6 @@
+Usa el servidor MCP memory para crear y consultar un grafo de conocimiento persistente sobre el desempeño académico de los estudiantes.
+1) Crea entidades para los estudiantes con mejor desempeño (Carla Mendez, Gabriela Luna) y para los estudiantes en situación de riesgo académico (Diego Ruiz, Hector Vega).
+2) Agrega observaciones sobre sus promedios (Carla: 9.50, Gabriela: 9.50, Diego: 5.50, Hector: 5.33) y su condición de aprobación.
+3) Crea relaciones de tutoría entre pares (Carla Mendez como tutora de Diego Ruiz, y Gabriela Luna como tutora de Hector Vega).
+4) Lee el grafo completo utilizando la herramienta read_graph para verificar las entidades, relaciones y observaciones almacenadas.
+Responde con un resumen del grafo de conocimiento generado.
